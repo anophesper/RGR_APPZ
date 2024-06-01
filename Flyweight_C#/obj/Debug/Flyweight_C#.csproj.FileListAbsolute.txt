@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Flyweight_C#\bin\Debug\Flyweight_C#.exe.config
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Flyweight_C#\bin\Debug\Flyweight_C#.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Flyweight_C#\bin\Debug\Flyweight_C#.pdb
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Flyweight_C#\obj\Debug\Flyweight_C#.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Flyweight_C#\obj\Debug\Flyweight_C#.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Flyweight_C#\obj\Debug\Flyweight_C#.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Flyweight_C#\obj\Debug\Flyweight_C#.pdb

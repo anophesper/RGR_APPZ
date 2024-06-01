@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Specification_C#\bin\Debug\Specification_C#.exe.config
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Specification_C#\bin\Debug\Specification_C#.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Specification_C#\bin\Debug\Specification_C#.pdb
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Specification_C#\obj\Debug\Specification_C#.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Specification_C#\obj\Debug\Specification_C#.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Specification_C#\obj\Debug\Specification_C#.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Specification_C#\obj\Debug\Specification_C#.pdb

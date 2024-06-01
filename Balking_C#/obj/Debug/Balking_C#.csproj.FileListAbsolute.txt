@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Balking_C#\bin\Debug\Balking_C#.exe.config
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Balking_C#\bin\Debug\Balking_C#.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Balking_C#\bin\Debug\Balking_C#.pdb
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Balking_C#\obj\Debug\Balking_C#.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Balking_C#\obj\Debug\Balking_C#.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Balking_C#\obj\Debug\Balking_C#.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\Balking_C#\obj\Debug\Balking_C#.pdb

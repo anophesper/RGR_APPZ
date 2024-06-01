@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\FactoryMethod_C#\bin\Debug\FactoryMethod_C#.exe.config
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\FactoryMethod_C#\bin\Debug\FactoryMethod_C#.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\FactoryMethod_C#\bin\Debug\FactoryMethod_C#.pdb
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\FactoryMethod_C#\obj\Debug\FactoryMethod_C#.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\FactoryMethod_C#\obj\Debug\FactoryMethod_C#.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\FactoryMethod_C#\obj\Debug\FactoryMethod_C#.exe
+C:\Users\Owner\Desktop\labs\Second\APPZ\RGR_Kiian\FactoryMethod_C#\obj\Debug\FactoryMethod_C#.pdb
